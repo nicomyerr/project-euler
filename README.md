@@ -5,5 +5,5 @@ solutions for project-euler problems
 | language   | problems solved |
 | ---------- | --------------- |
 | rust       | 1,2             |
-| java       | 1-8             |
+| java       | 1-9             |
 | typescript | 1               |

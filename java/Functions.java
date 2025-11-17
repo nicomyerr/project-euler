@@ -63,4 +63,8 @@ public class Functions {
 
     return product;
   }
+
+  public static boolean isPythagoreanTriplet(final int a, final int b, final int c) {
+    return Math.pow(a, 2) + Math.pow(b, 2) == Math.pow(c, 2);
+  }
 }
